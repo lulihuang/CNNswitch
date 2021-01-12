@@ -1,0 +1,26 @@
+<annotation>
+	<folder>data</folder>
+	<filename>000405.jpg</filename>
+	<path>/home/mmwzj/WORK/kaiguan/csv/data/000405.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>400</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>42</ymin>
+			<xmax>98</xmax>
+			<ymax>174</ymax>
+		</bndbox>
+	</object>
+</annotation>

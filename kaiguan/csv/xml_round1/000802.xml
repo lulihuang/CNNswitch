@@ -1,0 +1,26 @@
+<annotation>
+	<folder>kg</folder>
+	<filename>000802.jpg</filename>
+	<path>/home/llh/python1/kg/000802.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>333</width>
+		<height>592</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>switch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>84</xmin>
+			<ymin>210</ymin>
+			<xmax>185</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+</annotation>
